@@ -1,0 +1,21 @@
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# typings
+tsd.json
+typings
+
+# Dependency directories
+node_modules
+build
+
+# environment variables
+.env
+env.json
+
+# IDE Stuff
+**/.idea
